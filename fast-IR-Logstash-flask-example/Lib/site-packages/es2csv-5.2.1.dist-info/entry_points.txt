@@ -1,0 +1,3 @@
+[console_scripts]
+es2csv = es2csv:main
+
